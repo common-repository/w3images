@@ -1,0 +1,57 @@
+/* w3images plugin for wordpress CSS */
+
+/* div w3spacelements */
+
+.w3gallerywrap{
+	padding:25px;
+}
+
+.w3spacelements{
+padding:15px;
+}
+
+.w3nav_l{
+text-align:left;
+padding:15px 25px;
+width:50%;
+font-size:medium;
+}
+
+.w3nav_r{
+text-align:right;
+padding:15px 25px;
+width:50%;
+font-size:medium;
+}
+
+.w3centertit{
+	text-align:center;
+	padding:12px;
+	font-size:medium;
+}
+
+.w3centerdesc{
+	text-align:center;
+	padding:15px;
+}
+
+.w3sep{
+font-weight:900;	
+}
+
+.submitwrap{
+padding: 40px 25px;	
+}
+
+
+.w3tablecont{
+
+}
+
+.w3errormsg{
+	
+}
+
+.w3wrap2{
+	margin:10px;
+}

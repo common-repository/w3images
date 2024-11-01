@@ -1,0 +1,6 @@
+w3images plugin for WordPress by Alessio Nanni - axew3
+For instructions and tips on how to use the w3images plugin for WordPress please go to this page:
+
+http://www.axew3.com/b10g/w3images-for-wordpress-how-to-use-it
+
+Thank you!
